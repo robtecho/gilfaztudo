@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "gilfaztudo",
+    "slug": "gilfaztudo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0075FF"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.gilfaztudo" 
+    },
+    "web": {
+      "favicon": "./assets/images/favicon.png"   
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+
+# React Native
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.expo/
+
+# Expo
+.expo-shared/
+.expo/
+*.jks
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Log files
+*.log
+
+# Android
+*.apk
+*.aar
+.idea/
+
+# iOS
+*.xcuserstate
