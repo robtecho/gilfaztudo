@@ -1,7 +1,7 @@
 
 # GilFazTudo
 
-Este projeto é baseado em um Aplicativo Mobile desenvolvido como uma Ferramenta Intuitiva para Gerenciar Tarefas e Serviços de um "Marido de Aluguel/Faz Tudo". Ele oferece funcionalidades para Agendamento, Definição de Prioridades e Categorização das Atividades, proporcionando uma Solução Prática e Eficiente para Otimizar a Organização e Execução de Tarefas.
+Este projeto é baseado em um Aplicativo Mobile desenvolvido como uma Ferramenta Intuitiva para Gerenciar Tarefas e Serviços de um "Marido de Aluguel/Faz Tudo". O App oferece funcionalidades para Agendamento, Definição de Prioridades e Categorização das Atividades, proporcionando uma Solução Prática e Eficiente para Otimizar a Organização e Execução de Tarefas.
   
 ## Índice
 
@@ -18,7 +18,7 @@ Para rodar este projeto, você precisa ter as seguintes ferramentas instaladas:
 
 - **Node.js** (versão recomendada: 22.11.0 ou superior)
 - **Expo** (instalado localmente com npm)
-- **Android Studio** (versãor recomendada: Ladybug | 2024.2.1 ou superior), e/ou
+- **Android Studio** (versão recomendada: Ladybug | 2024.2.1 ou superior), e/ou
 - **Expo Go** em um smartphone para emular o App via QR Code
 
 ### Como Rodar o Projeto:
